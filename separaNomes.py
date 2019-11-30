@@ -1,3 +1,6 @@
+'''
+Código exemplo
+'''
 #!/usr/bin/env python
 
 arquivo = open('nomePais.txt', 'r')
